@@ -1,0 +1,12 @@
+{
+  "name": "pigmentab/woocommerce-smart-coupons",
+  "type": "woocommerce-smart-coupons",
+  "description": "WooCommerce Smart Coupon Premium Plugin",
+  "license": "GPLv3",
+  "homepage": "https://woocommerce.com/products/smart-coupons/",
+  "support": {
+    "issues": "https://woocommerce.com/products/smart-coupons/",
+    "source": "https://github.com/pigmentab/woocommerce-smart-coupons"
+  },
+  "require": {}
+}
